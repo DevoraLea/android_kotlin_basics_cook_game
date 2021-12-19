@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CookGame</string>
+
+    <string name="select_desert">SELECT A DESERT</string>
+    <string name="put_ingredient_one">PUT THE FIRST INGREDIENT</string>
+    <string name="put_ingredient_two">PUT THE SECOND INGREDIENT</string>
+    <string name="put_ingredient_third">PUT THE THIRD INGREDIENT</string>
+    <string name="desert_eat">IS READY TO EAT</string>
+    <string name="desert_plate">YOU EAT ALL MAKE AGAIN</string>
+</resources>
